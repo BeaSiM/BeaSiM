@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeaSiM
 - 👀 I’m interested in to learning programming and work  with this.
-- 🌱 I’m currently learning PHP, Laravel, Javascript, Python, React.
+- 🌱 I’m currently learning Git, Github, VBA, PHP, Laravel, Javascript, Python, React.
 - 💞️ I’m looking to collaborate on my knowedge and always seek more.
 - 📫 How to reach me on Discord @Beables#6530
 
